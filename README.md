@@ -11,7 +11,7 @@ GameGuardian 是一款能够 **实时捕捉用户情绪变化** 的应用程序�
 - **安装文件**：[`GameGuardian.apk`](https://github.com/ygao36Buffalo/GameGuardian/releases/tag/GameGuardian.1.3.3#)
 
 ### 📌 安装步骤
-1. **下载** 在点击`GameGuardian.apk` 下载并安装。
+1. **下载** 请点击`GameGuardian.apk` 下载并安装。
 2. **授予必要权限**
    - **相机权限**：用于捕捉您的表情，以评估情绪状态（所有摄像数据输入本地模型后会得出情感评估数值，**不会上传云端，也不会存储于本地**。）。
    - **录屏权限**：用于记录游戏画面，仅在情绪波动时触发保存 **近 5 秒游戏截图**，并上传至服务器以便进一步分析。
