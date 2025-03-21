@@ -8,7 +8,7 @@ GameGuardian 是一款能够 **实时捕捉用户情绪变化** 的应用程序�
 
 ### 📌 当前版本信息
 - **支持平台**：目前仅支持 **Android 设备**
-- **安装文件**：[`GameGuardian.apk`](https://github.com/ygao36Buffalo/GameGuardian/releases/tag/v1.3.4#)
+- **安装文件**：[`GameGuardian.apk`](https://github.com/ygao36Buffalo/GameGuardian/releases/tag/v1.3.5#)
 
 ### 📌 安装步骤
 1. **下载** 请点击`GameGuardian.apk` 下载并安装。
