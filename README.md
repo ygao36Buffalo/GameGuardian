@@ -4,7 +4,7 @@ GameGuardian 是一款能够 **实时捕捉用户情绪变化** 的应用程序�
 
 下载链接：[`GameGuardian.apk`](https://github.com/ygao36Buffalo/GameGuardian/releases/tag/v1.3.6#)
 
-体验后可填写[调查问卷](https://www.wjx.cn/vm/msUKbj1.aspx#)，您的反馈将帮助我们优化情绪识别算法，并提供更好的游戏体验！
+问卷链接：[用户使用调查问卷](https://www.wjx.cn/vm/msUKbj1.aspx#)，为了改进 GameGuardian，我们希望收集您的使用反馈!
 
 <img src="images/gameguardian_overview.png" alt="GameGuardian Overview" width="90%"> 
 
@@ -16,7 +16,7 @@ GameGuardian 是一款能够 **实时捕捉用户情绪变化** 的应用程序�
 
 ### 📌 当前版本信息
 - **支持平台**：目前仅支持 **Android 设备**
-- **安装文件**：[`GameGuardian.apk`](https://github.com/ygao36Buffalo/GameGuardian/releases/tag/v1.3.6#)
+
 
 ### 📌 安装步骤
 1. **下载** 请点击`GameGuardian.apk` 下载并安装。
@@ -51,7 +51,7 @@ GameGuardian 是一款能够 **实时捕捉用户情绪变化** 的应用程序�
 ## 📝 体验反馈
 为了改进 GameGuardian，我们希望收集您的使用反馈！
 
-➡️ **请在体验完 App 后填写我们的问卷调查**：[调查问卷](https://www.wjx.cn/vm/msUKbj1.aspx#)
+➡️ **请在体验完 App 后填写我们的问卷调查**.
 
 您的反馈将帮助我们优化情绪识别算法，并提供更好的游戏体验！
 
