@@ -2,6 +2,10 @@
 
 GameGuardian 是一款能够 **实时捕捉用户情绪变化** 的应用程序，专为提升游戏体验而设计。它可在后台运行，通过 **视频捕捉您的表情**，推测您的情绪状态，并结合 **当前游戏场景**，提供 **智能、个性化的交互**。我们的目标是帮助玩家 **减少游戏中的负面情绪**，优化整体游戏体验，并避免长时间游戏可能带来的身体与心理负担。
 
+<img src="images/gameguardian_overview.png" alt="GameGuardian Overview" width="60%"> 
+
+*GameGuardian 主要功能概览*
+
 ## 📥 安装与使用指南
 
 **⚠️ 请在下载和使用 GameGuardian 之前先阅读以下说明！**
